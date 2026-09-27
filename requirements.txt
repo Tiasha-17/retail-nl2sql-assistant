@@ -1,0 +1,9 @@
+fastapi==0.128.8
+httpx==0.28.1
+openai==2.48.0
+pydantic-settings==2.11.0
+pytest==8.4.2
+ruff==0.16.9
+sqlglot==30.20.0
+uvicorn==0.39.0
+
